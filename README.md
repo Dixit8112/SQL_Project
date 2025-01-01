@@ -4,8 +4,8 @@ Welcome to my portfolio showcasing my SQL skills through a project focused on cr
 ## SQL Skills and Expertise
 Throughout this project, I leveraged several SQL concepts to solve business problems, including:
 
-**CTEs (Common Table Expressions):** Used for creating complex queries and recursive data retrieval.
-**Aggregations & Grouping:** Summed transaction amounts, calculated percentage contributions, and identified key spending patterns.
-**Joins:** Combined data from multiple tables to produce comprehensive insights.
-**Window Functions:** Employed RANK() and LAG() for ranking and analyzing time-based trends.
+**CTEs (Common Table Expressions):** Used for creating complex queries and recursive data retrieval.  
+**Aggregations & Grouping:** Summed transaction amounts, calculated percentage contributions, and identified key spending patterns.  
+**Joins:** Combined data from multiple tables to produce comprehensive insights.  
+**Window Functions:** Employed RANK() and LAG() for ranking and analyzing time-based trends.  
 **Subqueries:** Utilized for detailed data extraction and filtering.
